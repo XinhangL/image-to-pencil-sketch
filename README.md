@@ -1,4 +1,4 @@
-# image-to-pencil-sketch
+# Image-To-Pencil-Sketch
 Transform an image into a pencil sketch using OpenCV
 
 # 🖼️ Image to Pencil Sketch with OpenCV
