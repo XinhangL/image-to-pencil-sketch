@@ -5,7 +5,7 @@ Transform an image into a pencil sketch using OpenCV
 
 This project transforms a colored image into a pencil sketch using basic image processing techniques with OpenCV in Python. It's designed as a simple, visual data project ideal for portfolio or educational use.
 
-This project is inspired by a StrataScratch problem. The dataset is not included due to licensing restrictions.
+This project is inspired by a StrataScratch problem. The image is not included due to licensing restrictions, however, I got a photo of my cute dog Mia that I can use on this!
 
 Originally inspired by a data science internship assignment from LetGrowMore (LGM).
 
