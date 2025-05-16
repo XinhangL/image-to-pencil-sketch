@@ -66,3 +66,24 @@ Given a colored JPEG image, simulate a pencil sketch using the following steps:
    jupyter notebook
    
 5. Run all cells in pencil_sketch.ipynb
+
+### ✅ Option 2: Use Your Own Image
+Replace dog.jpg with your own image, and update the filename in the notebook if needed.
+
+---
+
+## ⚠️ Notes
+
+   The project uses OpenCV but does not rely on GUI features, making it compatible with cloud environments and Jupyter platforms.
+
+   This is a beginner-friendly project aimed at showcasing basic image processing skills.
+
+---
+
+## 📬 Contact
+If you have feedback or questions, feel free to open an issue or fork the project.
+
+---
+
+## ⭐️ Give a Star
+If you like this project, consider giving it a ⭐️ to support simple open-source learning!
